@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>About Me</h1>
+
+<p>print("Hello World"), Hi, my names Ben. I have been tasked to write about myself in HTML code! </p>
+
+</body>
+</html>
